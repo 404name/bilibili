@@ -1,0 +1,155 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://yunqi.aliyun.com/meeting/review",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1jIWjM3HqK1RjSZFgXXa7JXXa-74-74.png",
+                    "path": "images/TB1jIWjM3HqK1RjSZFgXXa7JXXa-74-74.png"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1djcAxqmWBuNjy1XaXXXCbXXa-502-88.png",
+                    "path": "images/TB1djcAxqmWBuNjy1XaXXXCbXXa-502-88.png"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1PLpcurSYBuNjSspiXXXNzpXa-1400-600.png",
+                    "path": "images/TB1PLpcurSYBuNjSspiXXXNzpXa-1400-600.png"
+                },
+                {
+                    "url": "https://gw.alicdn.com/tfs/TB1qnHExntYBeNjy1XdXXXXyVXa-1500-860.png",
+                    "path": "images/TB1qnHExntYBeNjy1XdXXXXyVXa-1500-860.png"
+                },
+                {
+                    "url": "https://gw.alicdn.com/tfs/TB13tzFxntYBeNjy1XdXXXXyVXa-800-800.png",
+                    "path": "images/TB13tzFxntYBeNjy1XdXXXXyVXa-800-800.png"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1RzlxxeuSBuNjy1XcXXcYjFXa-1000-668.png",
+                    "path": "images/TB1RzlxxeuSBuNjy1XcXXcYjFXa-1000-668.png"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1eJ_Bx1uSBuNjy1XcXXcYjFXa-1000-668.jpg",
+                    "path": "images/TB1eJ_Bx1uSBuNjy1XcXXcYjFXa-1000-668.jpeg"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB17EREuOQnBKNjSZFmXXcApVXa-1000-668.jpg",
+                    "path": "images/TB17EREuOQnBKNjSZFmXXcApVXa-1000-668.jpeg"
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1uSvDcrvpK1RjSZPiXXbmwXXa-1000-668.png",
+                    "path": "images/TB1uSvDcrvpK1RjSZPiXXbmwXXa-1000-668.png"
+                },
+                {
+                    "url": "https://gw.alicdn.com/tfs/TB1s_KLwSzqK1RjSZPcXXbTepXa-2142-1428.png",
+                    "path": "images/TB1s_KLwSzqK1RjSZPcXXbTepXa-2142-1428.png"
+                },
+                {
+                    "url": "https://gw.alicdn.com/tfs/TB12upAuNWYBuNjy1zkXXXGGpXa-660-301.png",
+                    "path": "images/TB12upAuNWYBuNjy1zkXXXGGpXa-660-301.png"
+                },
+                {
+                    "url": "https://g.alicdn.com/mtb/??lib-flexible/0.3.4/flexible.js",
+                    "path": "js/mtb.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/static/0.0.13/jquery/1.11/jquery.min.js,aliyun/static/0.0.13/promise.js,mtb/lib-windvane/2.1.8/windvane.js,mtb/lib-env/1.9.9/env.js,aliyun/m-aliyun-dbl-bridge/0.2.2/dblbridge.min.js",
+                    "path": "js/index_2.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/dbl-official-ui/1.0.32/scripts/common.js,aliyun/dbl-official-ui/1.0.32/scripts/index.js",
+                    "path": "js/index.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/util/0.0.3/scripts/common.js,aliyun/util/0.0.3/scripts/index.js",
+                    "path": "js/index_1.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/ali-mod/??www-aliyun-com-set-spm/0.0.3/index.js,aliyun-common-float-banner-new/0.0.5/index.js",
+                    "path": "js/ali-mod.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/www-home/0.1.10/knight/2015/awdc/three.min.js",
+                    "path": "js/index_3.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/www-home/0.1.10/knight/2015/awdc/Projector.js",
+                    "path": "js/index_5.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/www-home/0.1.10/knight/2015/awdc/CanvasRenderer.js",
+                    "path": "js/index_6.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/www-home/0.1.10/knight/2015/awdc/stats.min.js",
+                    "path": "js/index_4.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/ali-mod/??wb-zc-lxmod-yunqi-review-2018-anim/0.0.6/index.js,wb-zc-lxmod-yunqi-review-2018/0.0.15/index.js",
+                    "path": "js/ali-mod_1.js"
+                },
+                {
+                    "url": "https://g.alicdn.com/aliyun/dbl-official-ui/1.0.32/css/index.css",
+                    "path": "css/index_1.css",
+                    "children": []
+                },
+                {
+                    "url": "https://g.alicdn.com/ali-mod/??wb-zc-lxmod-yunqi-review-2018-anim/0.0.6/index.css,wb-zc-lxmod-yunqi-review-2018/0.0.15/index.css",
+                    "path": "css/ali-mod_1.css"
+                },
+                {
+                    "url": "https://g.alicdn.com/tms/layouts/0.1.8/layout-hangye-pc.css",
+                    "path": "css/layout-hangye-pc.css"
+                },
+                {
+                    "url": "https://g.alicdn.com/ali-mod/??www-aliyun-com-set-spm/0.0.3/index.css,aliyun-common-float-banner-new/0.0.5/index.css",
+                    "path": "css/ali-mod.css"
+                },
+                {
+                    "url": "https://g.alicdn.com/??aliyun/www-dpl/0.6.26/knight/css/iconfont.css",
+                    "path": "css/index.css",
+                    "children": [
+                        {
+                            "url": "https://g.alicdn.com/aliyun/www-dpl/0.6.26/knight/fonts/iconfont.eot?rk2faw",
+                            "path": "fonts/iconfont_1.eot"
+                        },
+                        {
+                            "url": "https://g.alicdn.com/aliyun/www-dpl/0.6.26/knight/fonts/iconfont.eot?#iefixrk2faw",
+                            "path": "fonts/iconfont.eot"
+                        },
+                        {
+                            "url": "https://g.alicdn.com/aliyun/www-dpl/0.6.26/knight/fonts/iconfont.woff?rk2faw",
+                            "path": "fonts/iconfont.woff"
+                        },
+                        {
+                            "url": "https://g.alicdn.com/aliyun/www-dpl/0.6.26/knight/fonts/iconfont.ttf?rk2faw",
+                            "path": "fonts/iconfont.ttf"
+                        },
+                        {
+                            "url": "https://g.alicdn.com/aliyun/www-dpl/0.6.26/knight/fonts/iconfont.svg?rk2faw#icofont",
+                            "path": "images/iconfont.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+                    "path": "etc/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
+                },
+                {
+                    "url": "https://gw.alicdn.com/tfs/TB1okRTeq5s3KVjSZFNXXcD3FXa-350-350.png",
+                    "path": "images/TB1okRTeq5s3KVjSZFNXXcD3FXa-350-350.png"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
